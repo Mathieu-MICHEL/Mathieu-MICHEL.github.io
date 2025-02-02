@@ -160,8 +160,7 @@ sections:
               My rating: <a href="https://www.goodreads.com/review/show/7282760230">4 of 5 stars</a><br /><br />
               I discovered this text late in life, and can only recognize its precursory significance. From the philosophical Faustian themes of humans, techniques and nature, to the innovative narration, ancestors to thriller plots, edging storytelling and cinematic jump scares. Mary Wollstonecraft Shelley is an important author, and Frankenstein a classic, I recommend.
               <br/><br/><a href="https://www.goodreads.com/review/list/187251579-mathieu">View all my reviews</a>
-            </blockquote>'
-   
+            </p></blockquote>'
     design:
       columns: '1'
   # - block: collection
